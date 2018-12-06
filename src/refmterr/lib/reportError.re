@@ -35,6 +35,7 @@ module Make = (Styl: Stylish.StylishSig) => {
     | Some(path) =>
       let types = concatList("\\\"", List.map(normalizeType, types));
       let cmd = path ++ (sp({| "%s"|}))(types);
+      print_endline(cmd);
       let input = Unix.open_process_in(cmd);
       let result = {contents: []};
       try (
