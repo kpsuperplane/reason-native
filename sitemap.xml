@@ -3,11 +3,6 @@
 <url> <loc>https://kpsuperplane.github.io/reason-native/help</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://kpsuperplane.github.io/reason-native/en/help" /> </url>
 <url> <loc>https://kpsuperplane.github.io/reason-native/index</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://kpsuperplane.github.io/reason-native/en/index" /> </url>
 <url> <loc>https://kpsuperplane.github.io/reason-native/users</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://kpsuperplane.github.io/reason-native/en/users" /> </url>
-<url> <loc>https://kpsuperplane.github.io/reason-native/blog/2017/10/24/new-version-1.0.0</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://kpsuperplane.github.io/reason-native/blog/2017/09/26/adding-rss</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://kpsuperplane.github.io/reason-native/blog/2017/09/25/testing-rss</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://kpsuperplane.github.io/reason-native/blog/2017/04/10/blog-post-two</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://kpsuperplane.github.io/reason-native/blog/2016/03/11/blog-post</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://kpsuperplane.github.io/reason-native/docs/console/api</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://kpsuperplane.github.io/reason-native/docs/console/api" /> </url>
 <url> <loc>https://kpsuperplane.github.io/reason-native/docs/console/</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://kpsuperplane.github.io/reason-native/docs/console/" /> </url>
 <url> <loc>https://kpsuperplane.github.io/reason-native/docs/console/quickstart</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://kpsuperplane.github.io/reason-native/docs/console/quickstart" /> </url>
